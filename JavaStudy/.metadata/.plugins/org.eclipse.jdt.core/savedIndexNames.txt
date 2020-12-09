@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+C:\LetsEngineer\curriculum\JavaStudy\.metadata\.plugins\org.eclipse.jdt.core
+1220418152.index
+4135846957.index
