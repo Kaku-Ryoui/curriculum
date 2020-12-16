@@ -1,8 +1,6 @@
 eclipse.preferences.version=1
 lineNumberRuler=true
-occurrenceIndicationColor=128,255,255
 overviewRuler_migration=migrated_3.1
 showWhitespaceCharacters=true
 spellingEnabled=false
 whitespaceCharacterAlphaValue=30
-writeOccurrenceIndicationColor=128,255,0

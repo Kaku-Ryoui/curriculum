@@ -23,14 +23,6 @@ org.eclipse.jdt.ui.text.custom_templates=<?xml version\="1.0" encoding\="UTF-8" 
 org.eclipse.jdt.ui.text.templates_migrated=true
 org.eclipse.jface.textfont=1|\u30E1\u30A4\u30EA\u30AA|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|0|3|2|1|50|\u30E1\u30A4\u30EA\u30AA;
 proposalOrderMigrated=true
-semanticHighlighting.localVariable.color=0,128,0
-semanticHighlighting.localVariable.enabled=true
-semanticHighlighting.localVariableDeclaration.bold=true
-semanticHighlighting.localVariableDeclaration.color=0,128,0
-semanticHighlighting.localVariableDeclaration.enabled=true
-semanticHighlighting.parameterVariable.color=255,0,0
-semanticHighlighting.parameterVariable.enabled=true
-sourceHoverBackgroundColor=255,255,225
 spelling_locale_initialized=true
 stickyOccurrences=false
 tabWidthPropagated=true

@@ -6,4 +6,5 @@
     <fullyQualifiedTypeName name="constants.Constants"/>
     <fullyQualifiedTypeName name="check.Check"/>
     <fullyQualifiedTypeName name="javax.print.attribute.standard.PrinterName"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
 </qualifiedTypeNameHistroy>
