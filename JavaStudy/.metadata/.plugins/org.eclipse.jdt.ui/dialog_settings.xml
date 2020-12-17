@@ -30,6 +30,8 @@
 		<item key="pageIndex" value="3"/>
 	</section>
 	<section name="quick_assist_proposal_size">
+		<item key="size.x" value="531"/>
+		<item key="size.y" value="232"/>
 	</section>
 	<section name="NewPackageWizardPage">
 		<item key="create_package_info_java" value="false"/>
@@ -44,5 +46,9 @@
 		<item key="HISTORY_SIZE" value="0"/>
 	</section>
 	<section name="RenameInformationPopup">
+	</section>
+	<section name="RefactoringWizard.preview">
+		<item key="width" value="600"/>
+		<item key="height" value="400"/>
 	</section>
 </section>
