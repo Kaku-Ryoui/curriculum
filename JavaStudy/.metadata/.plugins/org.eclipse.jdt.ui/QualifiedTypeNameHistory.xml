@@ -13,4 +13,8 @@
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Exception"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="sun.misc.BASE64Encoder"/>
+    <fullyQualifiedTypeName name="bean.EmployeeBean"/>
+    <fullyQualifiedTypeName name="sun.print.resources.serviceui"/>
+    <fullyQualifiedTypeName name="service.EmployeeService"/>
 </qualifiedTypeNameHistroy>
